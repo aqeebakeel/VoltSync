@@ -1,0 +1,27 @@
+# Virtual Environments
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# LaTeX Intermediate Files (Keeps your repo clean while writing the report)
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+
+# OS Generated Files
+Thumbs.db
+.DS_Store
+
+# IDE Workspaces
+.vscode/
+.idea/
+*.swp
